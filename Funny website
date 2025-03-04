@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
     <title>Tim's Website</title>
     <link rel="stylesheet" href="styles.css">
@@ -27,4 +26,3 @@
     <script src="script.js"></script>
 
 </body>
-</html>
